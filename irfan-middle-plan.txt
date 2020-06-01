@@ -2,4 +2,5 @@ Rencana jangka Menengah
  - Membuat Freelancer Project
    * Memulai Ke Situs Frelancer Lokal
  - Mengembangkan Skill Dibidang Mobile Programming
+   * Belajar Fundamental Pengembangan Aplikasi Android
  - Mengembangkan Skill UI / UX Design
