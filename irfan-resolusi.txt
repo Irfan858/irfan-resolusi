@@ -2,3 +2,5 @@ Resolusiku
 - Belajar PHP
 - Belajar Boostrap
 - Belajar Web Design
+- Membuat Sebuah Website Portofolio
+- Membuat Blog Pribadi
